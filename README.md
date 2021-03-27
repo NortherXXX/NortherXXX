@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NortherXXX
+- 👋 Hi, I’m @NortherXXX I spreaking French and english
 - 👀 I’m interested in helping peoples to translate website and give some missings informations 
 - 🌱 I’m currently knowning and learning web service security, 3d printing (3d creation, gcode programing, reprap creation etc.) 3d graphic and programing ( C, C++, Java ), computing and micro-controller programing (arduino, raspberry) 
 - 💞️ I’m looking to collaborate on every project who's need help
